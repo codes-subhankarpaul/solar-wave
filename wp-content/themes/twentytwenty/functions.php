@@ -10,7 +10,7 @@
  */
 
 /**
- * Table of Contents: Animesh
+ * Table of Contents: Animesh 
  * Theme Support
  * Required Files
  * Register Styles
